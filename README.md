@@ -39,7 +39,7 @@ Create a MySQL database and import the provided SQL file.
 Update the database configuration in config.php with your database credentials.
 Run the Application
 
-Access the application via your web browser at [http://localhost/your-project-directory](http://localhost/bhavani-hatchery/Homepage/Home%20page/login.php).
+Access the application via your web browser at (http://localhost/bhavani-hatchery/Homepage/Home%20page/login.php).
 Contributing
 We welcome contributions from the community. If you wish to contribute, please follow these guidelines:
 
