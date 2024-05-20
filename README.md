@@ -28,7 +28,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/hatchery-management-system.git
+git clone https://github.com/vignesh4769/hatchery-management-system.git
 Configure the Server
 
 Ensure Apache server is installed and running.
